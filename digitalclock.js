@@ -7,11 +7,11 @@ let userName = prompt("Lütfen adınızı giriniz.");
        document.getElementById("myName").innerHTML=userName.toUpperCase();   
 }
 
-   else if(isim == "") 
+   else if(userName == "") 
    
    alert("Boş giriş yaptınız!");
    
-   else if(isim == null) 
+   else if(userName == null) 
   
    alert("Giriş yapmaktan vazgeçtiniz!");
 
