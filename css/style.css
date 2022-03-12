@@ -61,8 +61,6 @@ footer > span {
   display: flex;
   justify-content: flex-end;
   font-size: 1em;
+  font-weight:bold;
   color:  black;}
-b{
-  display:flex;
-  justify-content: flex-end;
-}
+
