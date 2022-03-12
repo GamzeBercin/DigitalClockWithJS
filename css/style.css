@@ -2,7 +2,7 @@ body {
   background: black;
   background-image:url("../img/1_uZ094Kxwv_qLih3tn9AZ6Q.jpeg");
   height: 500px;
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat; 
   background-size: auto;
 }
@@ -60,5 +60,5 @@ footer > span {
   margin-top: 5px;
   display: flex;
   justify-content: flex-end;
-  font-size: 2em;
-  color:  #e98208;}
+  font-size: 1em;
+  color:  black;}
