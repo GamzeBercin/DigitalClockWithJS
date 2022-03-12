@@ -15,7 +15,7 @@ body {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   letter-spacing: 7px;
   border:dotted #e98208 2px;
-  width: 50%;
+  width: auto;
   margin:auto;
   display: block;
 }
